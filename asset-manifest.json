@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/artyomP1/erez-website/static/css/main.42edc720.chunk.css",
+    "main.js": "/artyomP1/erez-website/static/js/main.1645a993.chunk.js",
+    "main.js.map": "/artyomP1/erez-website/static/js/main.1645a993.chunk.js.map",
+    "runtime-main.js": "/artyomP1/erez-website/static/js/runtime-main.c317d056.js",
+    "runtime-main.js.map": "/artyomP1/erez-website/static/js/runtime-main.c317d056.js.map",
+    "static/js/2.16c5ac00.chunk.js": "/artyomP1/erez-website/static/js/2.16c5ac00.chunk.js",
+    "static/js/2.16c5ac00.chunk.js.map": "/artyomP1/erez-website/static/js/2.16c5ac00.chunk.js.map",
+    "index.html": "/artyomP1/erez-website/index.html",
+    "precache-manifest.0e0a0242ac8548eb64f16d4e06e19758.js": "/artyomP1/erez-website/precache-manifest.0e0a0242ac8548eb64f16d4e06e19758.js",
+    "service-worker.js": "/artyomP1/erez-website/service-worker.js",
+    "static/css/main.42edc720.chunk.css.map": "/artyomP1/erez-website/static/css/main.42edc720.chunk.css.map",
+    "static/js/2.16c5ac00.chunk.js.LICENSE": "/artyomP1/erez-website/static/js/2.16c5ac00.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c317d056.js",
+    "static/js/2.16c5ac00.chunk.js",
+    "static/css/main.42edc720.chunk.css",
+    "static/js/main.1645a993.chunk.js"
+  ]
+}
