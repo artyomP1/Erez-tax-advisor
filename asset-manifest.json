@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/artyomP1/Erez-tax-advisor/static/css/main.42edc720.chunk.css",
-    "main.js": "/artyomP1/Erez-tax-advisor/static/js/main.11329012.chunk.js",
-    "main.js.map": "/artyomP1/Erez-tax-advisor/static/js/main.11329012.chunk.js.map",
+    "main.css": "/artyomP1/Erez-tax-advisor/static/css/main.411f8cf1.chunk.css",
+    "main.js": "/artyomP1/Erez-tax-advisor/static/js/main.db1967eb.chunk.js",
+    "main.js.map": "/artyomP1/Erez-tax-advisor/static/js/main.db1967eb.chunk.js.map",
     "runtime-main.js": "/artyomP1/Erez-tax-advisor/static/js/runtime-main.e497d7cd.js",
     "runtime-main.js.map": "/artyomP1/Erez-tax-advisor/static/js/runtime-main.e497d7cd.js.map",
-    "static/js/2.16c5ac00.chunk.js": "/artyomP1/Erez-tax-advisor/static/js/2.16c5ac00.chunk.js",
-    "static/js/2.16c5ac00.chunk.js.map": "/artyomP1/Erez-tax-advisor/static/js/2.16c5ac00.chunk.js.map",
+    "static/css/2.35f98baf.chunk.css": "/artyomP1/Erez-tax-advisor/static/css/2.35f98baf.chunk.css",
+    "static/js/2.212a16f3.chunk.js": "/artyomP1/Erez-tax-advisor/static/js/2.212a16f3.chunk.js",
+    "static/js/2.212a16f3.chunk.js.map": "/artyomP1/Erez-tax-advisor/static/js/2.212a16f3.chunk.js.map",
     "index.html": "/artyomP1/Erez-tax-advisor/index.html",
-    "precache-manifest.beec1fd10603e5ad0e80a751e2501632.js": "/artyomP1/Erez-tax-advisor/precache-manifest.beec1fd10603e5ad0e80a751e2501632.js",
+    "precache-manifest.d04f155f8b5eb628411082d2559a40d9.js": "/artyomP1/Erez-tax-advisor/precache-manifest.d04f155f8b5eb628411082d2559a40d9.js",
     "service-worker.js": "/artyomP1/Erez-tax-advisor/service-worker.js",
-    "static/css/main.42edc720.chunk.css.map": "/artyomP1/Erez-tax-advisor/static/css/main.42edc720.chunk.css.map",
-    "static/js/2.16c5ac00.chunk.js.LICENSE": "/artyomP1/Erez-tax-advisor/static/js/2.16c5ac00.chunk.js.LICENSE"
+    "static/css/2.35f98baf.chunk.css.map": "/artyomP1/Erez-tax-advisor/static/css/2.35f98baf.chunk.css.map",
+    "static/css/main.411f8cf1.chunk.css.map": "/artyomP1/Erez-tax-advisor/static/css/main.411f8cf1.chunk.css.map",
+    "static/js/2.212a16f3.chunk.js.LICENSE": "/artyomP1/Erez-tax-advisor/static/js/2.212a16f3.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e497d7cd.js",
-    "static/js/2.16c5ac00.chunk.js",
-    "static/css/main.42edc720.chunk.css",
-    "static/js/main.11329012.chunk.js"
+    "static/css/2.35f98baf.chunk.css",
+    "static/js/2.212a16f3.chunk.js",
+    "static/css/main.411f8cf1.chunk.css",
+    "static/js/main.db1967eb.chunk.js"
   ]
 }
