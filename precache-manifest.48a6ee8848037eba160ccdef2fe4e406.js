@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c9c701f6cf52988ce0a31adbf41b4bd",
+    "revision": "4be978c01739cac62eef6cf545ddf37d",
     "url": "/Erez-tax-advisor/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Erez-tax-advisor/static/css/2.35f98baf.chunk.css"
   },
   {
-    "revision": "f4432de2c61d0caff58f",
-    "url": "/Erez-tax-advisor/static/css/main.59c321a6.chunk.css"
+    "revision": "dcedecba46fc77c31824",
+    "url": "/Erez-tax-advisor/static/css/main.659bb087.chunk.css"
   },
   {
     "revision": "925c8006845847dc995a",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Erez-tax-advisor/static/js/2.22aa875e.chunk.js.LICENSE"
   },
   {
-    "revision": "f4432de2c61d0caff58f",
+    "revision": "dcedecba46fc77c31824",
     "url": "/Erez-tax-advisor/static/js/main.4bd21eaa.chunk.js"
   },
   {
