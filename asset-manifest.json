@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Erez-tax-advisor/static/css/main.97833acc.chunk.css",
+    "main.css": "/Erez-tax-advisor/static/css/main.dd3596dd.chunk.css",
     "main.js": "/Erez-tax-advisor/static/js/main.4bd21eaa.chunk.js",
     "main.js.map": "/Erez-tax-advisor/static/js/main.4bd21eaa.chunk.js.map",
     "runtime-main.js": "/Erez-tax-advisor/static/js/runtime-main.fc80e4c6.js",
@@ -9,17 +9,17 @@
     "static/js/2.22aa875e.chunk.js": "/Erez-tax-advisor/static/js/2.22aa875e.chunk.js",
     "static/js/2.22aa875e.chunk.js.map": "/Erez-tax-advisor/static/js/2.22aa875e.chunk.js.map",
     "index.html": "/Erez-tax-advisor/index.html",
-    "precache-manifest.9a13ae755b3c717406b555441e94b7fc.js": "/Erez-tax-advisor/precache-manifest.9a13ae755b3c717406b555441e94b7fc.js",
+    "precache-manifest.f099de6a42d06f87dda7330470e5c144.js": "/Erez-tax-advisor/precache-manifest.f099de6a42d06f87dda7330470e5c144.js",
     "service-worker.js": "/Erez-tax-advisor/service-worker.js",
     "static/css/2.35f98baf.chunk.css.map": "/Erez-tax-advisor/static/css/2.35f98baf.chunk.css.map",
-    "static/css/main.97833acc.chunk.css.map": "/Erez-tax-advisor/static/css/main.97833acc.chunk.css.map",
+    "static/css/main.dd3596dd.chunk.css.map": "/Erez-tax-advisor/static/css/main.dd3596dd.chunk.css.map",
     "static/js/2.22aa875e.chunk.js.LICENSE": "/Erez-tax-advisor/static/js/2.22aa875e.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.fc80e4c6.js",
     "static/css/2.35f98baf.chunk.css",
     "static/js/2.22aa875e.chunk.js",
-    "static/css/main.97833acc.chunk.css",
+    "static/css/main.dd3596dd.chunk.css",
     "static/js/main.4bd21eaa.chunk.js"
   ]
 }
