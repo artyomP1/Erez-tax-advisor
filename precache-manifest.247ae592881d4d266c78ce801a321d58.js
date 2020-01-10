@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27ffd1e0b3ba69f174794a2ab60f85b2",
+    "revision": "e6cefd9405d2b7c342a40f6dd1b9349f",
     "url": "/Erez-tax-advisor/index.html"
   },
   {
