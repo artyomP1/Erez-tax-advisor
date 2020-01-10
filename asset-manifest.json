@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Erez-tax-advisor/static/css/main.dd3596dd.chunk.css",
-    "main.js": "/Erez-tax-advisor/static/js/main.4bd21eaa.chunk.js",
-    "main.js.map": "/Erez-tax-advisor/static/js/main.4bd21eaa.chunk.js.map",
+    "main.css": "/Erez-tax-advisor/static/css/main.5997b871.chunk.css",
+    "main.js": "/Erez-tax-advisor/static/js/main.8a010821.chunk.js",
+    "main.js.map": "/Erez-tax-advisor/static/js/main.8a010821.chunk.js.map",
     "runtime-main.js": "/Erez-tax-advisor/static/js/runtime-main.fc80e4c6.js",
     "runtime-main.js.map": "/Erez-tax-advisor/static/js/runtime-main.fc80e4c6.js.map",
     "static/css/2.35f98baf.chunk.css": "/Erez-tax-advisor/static/css/2.35f98baf.chunk.css",
     "static/js/2.22aa875e.chunk.js": "/Erez-tax-advisor/static/js/2.22aa875e.chunk.js",
     "static/js/2.22aa875e.chunk.js.map": "/Erez-tax-advisor/static/js/2.22aa875e.chunk.js.map",
     "index.html": "/Erez-tax-advisor/index.html",
-    "precache-manifest.f099de6a42d06f87dda7330470e5c144.js": "/Erez-tax-advisor/precache-manifest.f099de6a42d06f87dda7330470e5c144.js",
+    "precache-manifest.78991d48d38d42b0d104c9fd0cfc0f02.js": "/Erez-tax-advisor/precache-manifest.78991d48d38d42b0d104c9fd0cfc0f02.js",
     "service-worker.js": "/Erez-tax-advisor/service-worker.js",
     "static/css/2.35f98baf.chunk.css.map": "/Erez-tax-advisor/static/css/2.35f98baf.chunk.css.map",
-    "static/css/main.dd3596dd.chunk.css.map": "/Erez-tax-advisor/static/css/main.dd3596dd.chunk.css.map",
+    "static/css/main.5997b871.chunk.css.map": "/Erez-tax-advisor/static/css/main.5997b871.chunk.css.map",
     "static/js/2.22aa875e.chunk.js.LICENSE": "/Erez-tax-advisor/static/js/2.22aa875e.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.fc80e4c6.js",
     "static/css/2.35f98baf.chunk.css",
     "static/js/2.22aa875e.chunk.js",
-    "static/css/main.dd3596dd.chunk.css",
-    "static/js/main.4bd21eaa.chunk.js"
+    "static/css/main.5997b871.chunk.css",
+    "static/js/main.8a010821.chunk.js"
   ]
 }
