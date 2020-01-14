@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Erez-tax-advisor/static/css/main.8b559eb1.chunk.css",
-    "main.js": "/Erez-tax-advisor/static/js/main.e67d74d2.chunk.js",
-    "main.js.map": "/Erez-tax-advisor/static/js/main.e67d74d2.chunk.js.map",
+    "main.css": "/Erez-tax-advisor/static/css/main.b631be7c.chunk.css",
+    "main.js": "/Erez-tax-advisor/static/js/main.994f9040.chunk.js",
+    "main.js.map": "/Erez-tax-advisor/static/js/main.994f9040.chunk.js.map",
     "runtime-main.js": "/Erez-tax-advisor/static/js/runtime-main.fc80e4c6.js",
     "runtime-main.js.map": "/Erez-tax-advisor/static/js/runtime-main.fc80e4c6.js.map",
     "static/css/2.35f98baf.chunk.css": "/Erez-tax-advisor/static/css/2.35f98baf.chunk.css",
-    "static/js/2.515dcd3c.chunk.js": "/Erez-tax-advisor/static/js/2.515dcd3c.chunk.js",
-    "static/js/2.515dcd3c.chunk.js.map": "/Erez-tax-advisor/static/js/2.515dcd3c.chunk.js.map",
+    "static/js/2.1d3c10c2.chunk.js": "/Erez-tax-advisor/static/js/2.1d3c10c2.chunk.js",
+    "static/js/2.1d3c10c2.chunk.js.map": "/Erez-tax-advisor/static/js/2.1d3c10c2.chunk.js.map",
     "index.html": "/Erez-tax-advisor/index.html",
-    "precache-manifest.41fcb32cfb70b7c74e94e98a0ba0c17c.js": "/Erez-tax-advisor/precache-manifest.41fcb32cfb70b7c74e94e98a0ba0c17c.js",
+    "precache-manifest.8e5f5819b6dcaf02e14912abf99c01db.js": "/Erez-tax-advisor/precache-manifest.8e5f5819b6dcaf02e14912abf99c01db.js",
     "service-worker.js": "/Erez-tax-advisor/service-worker.js",
     "static/css/2.35f98baf.chunk.css.map": "/Erez-tax-advisor/static/css/2.35f98baf.chunk.css.map",
-    "static/css/main.8b559eb1.chunk.css.map": "/Erez-tax-advisor/static/css/main.8b559eb1.chunk.css.map",
-    "static/js/2.515dcd3c.chunk.js.LICENSE": "/Erez-tax-advisor/static/js/2.515dcd3c.chunk.js.LICENSE"
+    "static/css/main.b631be7c.chunk.css.map": "/Erez-tax-advisor/static/css/main.b631be7c.chunk.css.map",
+    "static/js/2.1d3c10c2.chunk.js.LICENSE": "/Erez-tax-advisor/static/js/2.1d3c10c2.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.fc80e4c6.js",
     "static/css/2.35f98baf.chunk.css",
-    "static/js/2.515dcd3c.chunk.js",
-    "static/css/main.8b559eb1.chunk.css",
-    "static/js/main.e67d74d2.chunk.js"
+    "static/js/2.1d3c10c2.chunk.js",
+    "static/css/main.b631be7c.chunk.css",
+    "static/js/main.994f9040.chunk.js"
   ]
 }
