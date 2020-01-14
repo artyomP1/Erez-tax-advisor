@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Erez-tax-advisor/static/css/main.8b559eb1.chunk.css",
-    "main.js": "/Erez-tax-advisor/static/js/main.d97070fd.chunk.js",
-    "main.js.map": "/Erez-tax-advisor/static/js/main.d97070fd.chunk.js.map",
+    "main.js": "/Erez-tax-advisor/static/js/main.d2b4a688.chunk.js",
+    "main.js.map": "/Erez-tax-advisor/static/js/main.d2b4a688.chunk.js.map",
     "runtime-main.js": "/Erez-tax-advisor/static/js/runtime-main.fc80e4c6.js",
     "runtime-main.js.map": "/Erez-tax-advisor/static/js/runtime-main.fc80e4c6.js.map",
     "static/css/2.35f98baf.chunk.css": "/Erez-tax-advisor/static/css/2.35f98baf.chunk.css",
     "static/js/2.515dcd3c.chunk.js": "/Erez-tax-advisor/static/js/2.515dcd3c.chunk.js",
     "static/js/2.515dcd3c.chunk.js.map": "/Erez-tax-advisor/static/js/2.515dcd3c.chunk.js.map",
     "index.html": "/Erez-tax-advisor/index.html",
-    "precache-manifest.d5fd3c6f0706cc46481d80e4420035ca.js": "/Erez-tax-advisor/precache-manifest.d5fd3c6f0706cc46481d80e4420035ca.js",
+    "precache-manifest.90703867ec5f986a4c4114e90faa14ba.js": "/Erez-tax-advisor/precache-manifest.90703867ec5f986a4c4114e90faa14ba.js",
     "service-worker.js": "/Erez-tax-advisor/service-worker.js",
     "static/css/2.35f98baf.chunk.css.map": "/Erez-tax-advisor/static/css/2.35f98baf.chunk.css.map",
     "static/css/main.8b559eb1.chunk.css.map": "/Erez-tax-advisor/static/css/main.8b559eb1.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.35f98baf.chunk.css",
     "static/js/2.515dcd3c.chunk.js",
     "static/css/main.8b559eb1.chunk.css",
-    "static/js/main.d97070fd.chunk.js"
+    "static/js/main.d2b4a688.chunk.js"
   ]
 }
