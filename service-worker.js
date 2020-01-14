@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Erez-tax-advisor/precache-manifest.247ae592881d4d266c78ce801a321d58.js"
+  "/Erez-tax-advisor/precache-manifest.a68acaea0c7513e63779dd19e9be3be0.js"
 );
 
 self.addEventListener('message', (event) => {
